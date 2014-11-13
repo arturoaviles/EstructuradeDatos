@@ -1,4 +1,4 @@
-Practica09
+Estructura de Datos
 ==========
 
-Practica 9 Estructura de Datos
+Estructura de Datos
